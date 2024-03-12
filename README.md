@@ -6,7 +6,8 @@
 - Be able to scan multiple targets
 
 # How to Use it.
-- Simply just run Portscanner.py
+- You need Python to run it, Download [Python](https://www.python.org/downloads/)
+- Simply just run Python3 Portscanner.py
 - Enter IP address
 - Enter How many you want to Scan.
-- You will Get Open Ports/Service/OS.
+- You will Get Open Ports/Service.
